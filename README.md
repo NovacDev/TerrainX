@@ -1,7 +1,8 @@
 ![Terrain3D Logo](https://novacdev.github.io/TerrainX-Web/photos/img3.jpg)
 
-# Terrain3D
+# TerrainX
 A high performance, editable terrain system for Godot 4, modified by NoVac Games
+
 
 
 ## Features
