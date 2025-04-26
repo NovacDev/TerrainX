@@ -1,11 +1,11 @@
 ![Terrain3D Logo](/doc/docs/images/terrain3d.jpg)
 
 # Terrain3D
-A high performance, editable terrain system for Godot 4.
+A high performance, editable terrain system for Godot 4, modified by NoVac Games
 
 
 ## Features
-* Written in C++ as a GDExtension addon, which works with official builds of Godot Engine
+* Written in C++ as a GDExtension addon, which works with official builds of *Godot Engine*
 * Can be accessed by GDScript, C#, and any language Godot supports
 * Geomorphing Geometric Clipmap Mesh Terrain, as used in The Witcher 3. See [System Architecture](https://terrain3d.readthedocs.io/en/stable/docs/system_architecture.html) 
 * Terrains as small as 64x64m up to 65.5x65.5km (4295km^2) in variable sized regions
