@@ -36,12 +36,6 @@ Developed for the Godot community by:
 
 And other contributors displayed on the right of the github page and in [AUTHORS.md](https://terrain3d.readthedocs.io/en/stable/docs/authors.html).
 
-
-## Contributing
-
-Please see [CONTRIBUTING.md](https://github.com/TokisanGames/Terrain3D/blob/main/CONTRIBUTING.md) if you would like to help make Terrain3D the best terrain system for Godot.
-
-
 ## License
 
 This addon has been released under the [MIT License](https://github.com/TokisanGames/Terrain3D/blob/main/LICENSE.txt).
